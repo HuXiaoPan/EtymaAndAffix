@@ -1,7 +1,5 @@
 # 词根词缀学习笔记
 
-## Day001
-
 任意一门语言都有它的发展经历，英语也不例外。一开始英语并没有很多复杂的词法，在生产力贫瘠的古代，人们在不满足物质需求时，词汇表达也相对贫瘠，仅仅能做简单的交流就很好。但随着社会的变革历史的前进，人们的物质生活得到极大的满足，精神层面也就出现了更为丰富的需求，表达的欲望愈演愈烈，加之更多的新鲜事物随着生产力的爆炸出现在人们的生活中，越来越多的长词复杂词汇也就出现了。  
 
     moon -> lun:
@@ -57,3 +55,24 @@
 
     free word root :act
     unfree word root :vis
+
+语言的流转过程中会产生拼写和语音的变化,但这种变化不是完全无序混乱的,很大程度上是符合社会发展规律和人类生理和思考习惯的
+例如:平翘舌,清浊音,近似音等等
+元音互换:元音是发音技巧简单的音,因为他最好发音 aeiouy 所以有些词一换元音,就变成了一个新的词
+他们的发音很相近,他们的意思也有关联的地方,这种共通,有可能只是一种巧合,但更多可能是词汇发展的结果
+eg: tell talk tale
+eg: hot heat
+eg: cold cool chill
+eg. sing song
+eg. sit seat set settle(tle重复座)
+eg. bite bitter bit bait beetle(咬树叶的小东西) abet(放狗咬人->唆使)
+再如所谓的不规则动词,仅仅是人为了区分一个词不同形态的一种手段而以,不规则动词的是先出现的,而ed是后来优化的结果(也是一种偷懒的做法)
+eg. sing sang sung
+eg. sink sank sunk
+eg. swim swam swum
+eg. ul el ol == old(老的)
+eg. adult elder adolescent
+spec spic == to look
+eg. respect inspect suspect prospect suspicious despicable(有能力往下看的->卑鄙的可鄙视的)
+eg. hurry come -> hurr_cane (缩合)
+eg. same time -> simul_tane_ous
