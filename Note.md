@@ -76,3 +76,32 @@ spec spic == to look
 eg. respect inspect suspect prospect suspicious despicable(有能力往下看的->卑鄙的可鄙视的)
 eg. hurry come -> hurr_cane (缩合)
 eg. same time -> simul_tane_ous
+
+一些相似音的互换  
+第一组：bpmfv  
+这些音很相似，演化成不同样子有很多原因，但主要原因是因为音的相似  
+pater patri \[G/L\] = father  
+paternal patriot patron  
+pot -> bottle butler
+具体演化到抽象 pot 意思引申 饮  
+potable potion->poison(音的互换)  
+burse purse  
+
+subway suppress(同化好读) sub<->sup  
+describe description prescribe prescription  
+
+foot boot booty(文化层面上，历史发展中有一些特定的事，西方大航海海盗文化，海盗->掠夺物) ->boutique  
+
+fract frag = break(音很像，也许某人有口音，也许某人有大舌头)  
+
+ple pli ply = full(同上)  
+complete accomplish supply  
+
+mag(ni) = big  
+maggnify magnificent  
+
+mob = move  
+mobile remove  
+（美简化英）  
+
+believe belief leave  
